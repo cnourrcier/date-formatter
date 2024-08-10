@@ -1,6 +1,8 @@
 # Date Formatter
 
+<!-- DESCRIPTION-START -->
 A project to learn methods and properties of the JavaScript Date object. It displays the date to the user in 3 different formats.
+<!-- DESCRIPTION-END -->
 
 ![project image](https://res.cloudinary.com/dwguf4w1t/image/upload/v1722358222/Portfolio%20Projects/date-formatter-js_fhdgr7.png)
 
